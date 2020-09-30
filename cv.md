@@ -24,9 +24,7 @@ HTML:
 		<p class="product-title">Обслуживание</p>
 	</div>
 </div>
-```
 CSS:
-```
 .product{
 	background: #F9F9F9 none repeat scroll 0 0;
 	overflow: hidden;
