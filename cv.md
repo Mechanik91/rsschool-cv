@@ -23,9 +23,9 @@ HTML:
 		<img class="product-item" src="img/6_conditioner_service.jpg" alt="Обслуживание">
 		<p class="product-title">Обслуживание</p>
 	</div>
-</div>```
+</div>
 CSS:
-```.product{
+.product{
 	background: #F9F9F9 none repeat scroll 0 0;
 	overflow: hidden;
 	position: relative;
