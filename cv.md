@@ -16,17 +16,17 @@
  * Sublime Text
  * VSCode
 ## 5. Examples of code
-HTML:
-```
+```HTML:
+
 <div class="col-md-3">
 	<div class="product">
 		<img class="product-item" src="img/6_conditioner_service.jpg" alt="Обслуживание">
 		<p class="product-title">Обслуживание</p>
 	</div>
 </div>
-```
+
 CSS:
-```
+
 .product{
 	background: #F9F9F9 none repeat scroll 0 0;
 	overflow: hidden;
