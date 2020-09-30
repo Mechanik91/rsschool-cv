@@ -55,6 +55,6 @@ I haven't any commercial projects. I made some layouts of a sites (<https://free
 * Self- education by books
 ## 8. Languages
 * English
- * Pre-Intermediate\Intermediate
+  * Pre-Intermediate\Intermediate
 * Russian
- * Native
+  * Native
