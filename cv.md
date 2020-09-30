@@ -17,14 +17,15 @@
  * VSCode
 ## 5. Examples of code
 HTML:
-`<div class="col-md-3">
-								<div class="product">
-									<img class="product-item" src="img/6_conditioner_service.jpg" alt="Обслуживание">
-									<p class="product-title">Обслуживание</p>
-								</div>
-							</div>`
+```
+<div class="col-md-3">
+	<div class="product">
+		<img class="product-item" src="img/6_conditioner_service.jpg" alt="Обслуживание">
+		<p class="product-title">Обслуживание</p>
+	</div>
+</div>```
 CSS:
-`.product{
+```.product{
 	background: #F9F9F9 none repeat scroll 0 0;
 	overflow: hidden;
 	position: relative;
@@ -42,7 +43,7 @@ CSS:
 	line-height: 1.3;
 	font-weight: bold;
 	color: #253B4D;
-}`
+}```
 ## 6. Projects
 I haven't any commercial projects. I made some layouts of a sites (<https://freelance.ru/mechanik91>)
 ## 7. Courses
