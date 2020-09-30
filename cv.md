@@ -24,7 +24,9 @@ HTML:
 		<p class="product-title">Обслуживание</p>
 	</div>
 </div>
+```
 CSS:
+```
 .product{
 	background: #F9F9F9 none repeat scroll 0 0;
 	overflow: hidden;
@@ -43,7 +45,8 @@ CSS:
 	line-height: 1.3;
 	font-weight: bold;
 	color: #253B4D;
-}```
+}
+```
 ## 6. Projects
 I haven't any commercial projects. I made some layouts of a sites (<https://freelance.ru/mechanik91>)
 ## 7. Courses
